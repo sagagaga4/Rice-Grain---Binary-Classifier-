@@ -4,6 +4,8 @@ A **machine learning project** that classifies two types of rice grains — **Ca
 This project demonstrates **data preprocessing, normalization, visualization, and binary classification** using **TensorFlow / Keras**.
 
 ---
+<img width="1399" height="727" alt="Screenshot 2025-10-18 at 21 03 36" src="https://github.com/user-attachments/assets/fc6abf93-a5ec-4380-9b99-7dd6cd7748dc" />
+<img width="1415" height="752" alt="Screenshot 2025-10-18 at 21 03 27" src="https://github.com/user-attachments/assets/5fc8344d-dac4-437d-bcfb-9438a1ccd20a" />
 
 ## 🚀 Project Overview
 
